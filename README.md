@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### ⚡ Fun fact: anyone can make this banner.  It's a little known github secret.
 <!--
 **Evantilton/Evantilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
